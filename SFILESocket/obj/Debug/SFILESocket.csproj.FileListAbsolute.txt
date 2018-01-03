@@ -1,9 +1,0 @@
-C:\Users\Paulo Henrique\source\repos\SFILESocket\SFILESocket\bin\Debug\SFILESocket.exe.config
-C:\Users\Paulo Henrique\source\repos\SFILESocket\SFILESocket\bin\Debug\SFILESocket.exe
-C:\Users\Paulo Henrique\source\repos\SFILESocket\SFILESocket\bin\Debug\SFILESocket.pdb
-C:\Users\Paulo Henrique\source\repos\SFILESocket\SFILESocket\obj\Debug\SFILESocket.csprojResolveAssemblyReference.cache
-C:\Users\Paulo Henrique\source\repos\SFILESocket\SFILESocket\obj\Debug\SFILESocket.csproj.CoreCompileInputs.cache
-C:\Users\Paulo Henrique\source\repos\SFILESocket\SFILESocket\obj\Debug\SFILESocket.exe
-C:\Users\Paulo Henrique\source\repos\SFILESocket\SFILESocket\obj\Debug\SFILESocket.pdb
-C:\Users\Paulo Henrique\source\repos\SFILESocket\SFILESocket\bin\Debug\System.Threading.Tasks.Extensions.dll
-C:\Users\Paulo Henrique\source\repos\SFILESocket\SFILESocket\bin\Debug\System.Threading.Tasks.Extensions.xml
