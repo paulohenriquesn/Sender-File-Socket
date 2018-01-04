@@ -29,32 +29,7 @@ namespace SFILESocket
         static scenes selectedOption = scenes.MENU;
         static int SelectedOptionRead;
         static Encoding UTF8 = new UTF8Encoding(false);
-        public static Image byteArrayToImage(byte[] byteArrayIn)
-        {
-
-            System.Drawing.ImageConverter converter = new System.Drawing.ImageConverter();
-            Image img = (Image)converter.ConvertFrom(byteArrayIn);
-
-            return img;
-        }
-        public static Image Base64ToImage(string base64String)
-        {
-            byte[] imageBytes = Convert.FromBase64String(base64String);
-            using (var ms = new MemoryStream(imageBytes, 0, imageBytes.Length))
-            {
-                Image image = Image.FromStream(ms, true);
-                return image;
-            }
-        }
-        public static Bitmap ResizeImage(Image image, int width, int height)
-        {
-            var destImage = new Bitmap(width, height);
-            using (var g = Graphics.FromImage(destImage))
-            {
-                g.DrawImage(image, 0, 0, width, height);
-            }
-            return destImage;
-        }
+             
         static int ReadInt32(Stream stream)
         {
             byte[] buffer = new byte[4];
